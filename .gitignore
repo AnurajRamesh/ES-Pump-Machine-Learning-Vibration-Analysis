@@ -1,0 +1,30 @@
+# Ignore Python virtual environment and unwanted folders
+venv/
+env/
+ESPset-master/
+upload/
+ESPset/
+
+# Ignore compiled files
+*.pyc
+__pycache__/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore IDE settings
+.vscode/
+.cursor/
+.dockerignore
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore files
+*.csv
+*.png
+*.docx
+README.md
+vibration_regression.py
