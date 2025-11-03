@@ -40,6 +40,7 @@ explore_esp_data(data)
 ```
 
 - Loads ESPset features from CSV file
+- The dataset for the analysis can be downloaded from https://drive.google.com/drive/folders/1VLuOmOIODiXa3ybYe3Z6845pZ6Sg2ce4?usp=drive_link
 - Provides comprehensive data exploration including:
   - Dataset shape and basic statistics
   - Label distribution analysis
@@ -226,3 +227,4 @@ For questions about this analysis or the ESPset dataset, please refer to the ori
 ---
 
 _This documentation is generated for the ESPset vibration analysis script. The analysis provides comprehensive insights into vibration-based fault diagnosis for Electric Submersible Pumps used in offshore oil exploration._
+
