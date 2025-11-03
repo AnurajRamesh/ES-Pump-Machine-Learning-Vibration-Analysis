@@ -15,6 +15,8 @@ A FastAPI-based REST API for predicting fault types in Electric Submersible Pump
 
 ### 1. Train and Save the Model
 
+The dataset for the analysis can be downloaded from https://drive.google.com/drive/folders/1VLuOmOIODiXa3ybYe3Z6845pZ6Sg2ce4?usp=drive_link
+
 First, run the analysis script to train and save the model:
 
 ```bash
